@@ -110,15 +110,7 @@ parameters:
 			path: src
 
 		-
-			message: "#^Constant pocketmine\\\\PATH not found\\.$#"
-			path: src
-
-		-
 			message: "#^Constant pocketmine\\\\PLUGIN_PATH not found\\.$#"
-			path: src
-
-		-
-			message: "#^Constant pocketmine\\\\RESOURCE_PATH not found\\.$#"
 			path: src
 
 		-
